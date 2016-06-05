@@ -1,0 +1,108 @@
+body{
+  background-image: url(achtergrond.png);
+  color: #444444;
+  font-family: 'Roboto';
+}
+h1{
+font-size: 2em;
+text-align: center;
+margin-bottom: 50px;
+}
+
+h2{
+  text-align: center;
+}
+
+.hrgroup{
+display: inline-block;
+text-align: center;
+position: relative;
+top: 100px;
+left: 50%;
+transform: translateX(-50%) translateY(-50%);
+color: #fff;
+border: 5px solid #fff;
+padding: .2em 3em;
+background-color: rgba(0,0,0,.2);
+z-index: 2;
+}
+
+.hapjes{
+  margin-top: 100px;
+}
+.eten{
+  height: 300px;
+  margin-top: 50px;
+
+}
+.papjes{
+  height: 300px;
+  margin-top: 50px;
+}
+
+.eten2{
+  height: 300px;
+  margin-top: -500px;
+}
+
+.pap{
+  height: 300px;
+  margin-top: -500px;
+}
+
+.verzorg{
+  padding-bottom: 20px;
+}
+
+.smoothie{
+  height: 300px;
+  width: 220px;
+  margin-top: -500px;
+}
+
+.textiel{
+  padding-bottom: 20px;
+}
+.textiel1{
+  height: 300px;
+}
+.textiel2{
+  height: 300px;
+}
+.textiel3{
+  height: 300px;
+}
+.textiel4{
+  height: 300px;
+}
+.textiel5{
+  height: 300px;
+}
+
+.verz1{
+  height: 300px;
+}
+
+.verz2{
+  height: 300px;
+  width: 230px;
+}
+
+.verz3{
+  height: 300px;
+  width: 220px;
+}
+
+.verz4{
+  height: 300px;
+}
+
+.verz5{
+  height: 300px;
+}
+
+.box2{
+  background-color: #F0FFF0;
+  height: 500px;
+  border: double;
+}
